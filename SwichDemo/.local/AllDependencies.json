@@ -1611,11 +1611,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "Hello World",
-      "projectName": "Hello World",
-      "projectPath": "C:\\Users\\Hussain Ravat\\Documents\\UiPath\\Hello World\\.local",
+      "projectUniqueName": "SwichDemo",
+      "projectName": "SwichDemo",
+      "projectPath": "C:\\Users\\Hussain Ravat\\Documents\\GitHub\\Cryptography using python\\UIPath\\SwichDemo\\.local",
       "packagesPath": "C:\\Users\\Hussain Ravat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hussain Ravat\\Documents\\UiPath\\Hello World\\.local"
+      "outputPath": "C:\\Users\\Hussain Ravat\\Documents\\GitHub\\Cryptography using python\\UIPath\\SwichDemo\\.local"
     },
     "frameworks": {
       "net461": {
@@ -1643,14 +1643,5 @@
         }
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU3034",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Extended.Wpf.Toolkit 2.8' from source 'https://gallery.uipath.com/api/v2': This package is signed but not by a trusted signer.",
-      "libraryId": "Extended.Wpf.Toolkit"
-    }
-  ]
+  }
 }

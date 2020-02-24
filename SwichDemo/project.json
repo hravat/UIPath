@@ -1,6 +1,6 @@
 {
-  "name": "RenamInvoices",
-  "description": "Rename Invoices in a given folder\r\n",
+  "name": "SwichDemo",
+  "description": "Switch Demo",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.8.1-preview]",
